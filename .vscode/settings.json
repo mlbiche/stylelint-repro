@@ -1,0 +1,3 @@
+{
+  "stylelint.stylelintPath": "packages/lint/node_modules/.bin/stylelint"
+}
